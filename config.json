@@ -1,9 +1,9 @@
 {
   "recovery": "True",
-  "user_password": "MyPassword",
+  "user_password": "rMyPassword@@1",
   "proxyfile": "proxy.txt",
   "anticaptchatoken": "",
-  "headless": "False",
-  "password": "",
+  "headless": "True",
+  "password": "rMyPassword@@1",
   "locale": "en_US"
 }
